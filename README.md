@@ -1,4 +1,4 @@
-# Analise_Hospitalar
+# Área Hospitalar
 
 # 🏥 Análise de Gestão de Leitos e Pacientes Hospitalares
 
