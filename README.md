@@ -2,7 +2,7 @@
 
 # 🏥 Análise de Gestão de Leitos e Pacientes Hospitalares
 
-Este projeto tem como objetivo resolver alguns gargalos no controle e na manutenção dos leitos, com a missão de propor melhorias através de soluções utilizando ferramentas técnicas, tratamento de dados, automações e apresentando como estão os dados atuais, focando na **gestão de leitos**, **status de ocupação**, **setores** e **perfil demográfico dos pacientes**.
+Este projeto tem como objetivo resolver alguns gargalos no controle e acompanhamento de leitos, com a missão de propor, construir e apresentar uma solução digital simples para minimizar ações manuais e prover melhor assertividade nos controles.
 
 ---
 
