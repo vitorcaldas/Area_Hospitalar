@@ -9,9 +9,9 @@ Este projeto tem como objetivo resolver alguns gargalos no controle e acompanham
 ## 🛠️ Tecnologias e Bibliotecas Utilizadas
 
 O projeto foi desenvolvido em **Python 3.13+** utilizando os seguintes pacotes:
-* **[Pandas](https://pandas.pydata.org/)**: Manipulação, limpeza e transformação de dados tabulares.
-* **[Matplotlib](https://matplotlib.org/)**[cite: 2]: Criação de gráficos estáticos, personalizados e visualizações.
-* **[Seaborn](https://seaborn.pydata.org/)**[cite: 2]: Interface de alto nível para gráficos estatísticos atraentes.
+* **Pandas**: Manipulação, limpeza e transformação de dados tabulares.
+* **Matplotlib**: Criação de gráficos estáticos, personalizados e visualizações.
+* **Seaborn**: Interface de alto nível para gráficos estatísticos atraentes.
 * **Excel**: Leitura e exportação de arquivos no formato `.xlsx`.
 * **Power BI**: Criação de um dasboard interativo `.pbix`
 
