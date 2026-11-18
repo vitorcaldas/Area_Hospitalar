@@ -8,7 +8,7 @@ Este projeto tem como objetivo resolver alguns gargalos no controle e acompanham
 
 ## 🛠️ Tecnologias e Bibliotecas Utilizadas
 
-O projeto foi desenvolvido em **Python 3.13+** utilizando os seguintes pacotes:
+O projeto foi desenvolvido em **Python 3.13+** utilizando os seguintes bibliotecas e ferramentas:
 * **Pandas**: Manipulação, limpeza e transformação de dados tabulares.
 * **Matplotlib**: Criação de gráficos estáticos, personalizados e visualizações.
 * **Seaborn**: Interface de alto nível para gráficos estatísticos atraentes.
