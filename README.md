@@ -21,7 +21,7 @@ O projeto foi desenvolvido em **Python 3.13+** utilizando os seguintes bibliotec
 
 O projeto consome e processa três fontes principais de dados:
 1. **`Dados_Tratados.xlsx`**: Contém informações cadastrais e operacionais dos leitos hospitalares (ID, Setor, Tipo, Status atual, paciente associado e datas de movimentação).
-2. **`Dados_Tratados.xlsx**: Contém o perfil dos pacientes internados (ID, Idade, Sexo, Faixa Etária e Tipo de Internação).
+2. **`Dados_Tratados.xlsx`**: Contém o perfil dos pacientes internados (ID, Idade, Sexo, Faixa Etária e Tipo de Internação).
 3. **`eventos_movimentacao.csv`**: Registro histórico de eventos de movimentação, admissões e altas.
 
 ---
