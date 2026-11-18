@@ -20,9 +20,9 @@ O projeto foi desenvolvido em **Python 3.13+** utilizando os seguintes bibliotec
 ## 📂 Estrutura do Conjunto de Dados
 
 O projeto consome e processa três fontes principais de dados:
-1. **`Dados_Tratados.xlsx` (Aba *Leitos*)**[cite: 2]: Contém informações cadastrais e operacionais dos leitos hospitalares (ID, Setor, Tipo, Status atual, paciente associado e datas de movimentação).
-2. **`Dados_Tratados.xlsx` (Aba *Pacientes*)**[cite: 2]: Contém o perfil dos pacientes internados (ID, Idade, Sexo, Faixa Etária e Tipo de Internação).
-3. **`eventos_movimentacao.csv`**[cite: 2]: Registro histórico de eventos de movimentação, admissões e altas.
+1. **`Dados_Tratados.xlsx` (Aba *Leitos*)**: Contém informações cadastrais e operacionais dos leitos hospitalares (ID, Setor, Tipo, Status atual, paciente associado e datas de movimentação).
+2. **`Dados_Tratados.xlsx` (Aba *Pacientes*)**: Contém o perfil dos pacientes internados (ID, Idade, Sexo, Faixa Etária e Tipo de Internação).
+3. **`eventos_movimentacao.csv`**: Registro histórico de eventos de movimentação, admissões e altas.
 
 ---
 
@@ -30,7 +30,7 @@ O projeto consome e processa três fontes principais de dados:
 
 O script executa as seguintes etapas no tratamento e análise dos dados:
 
-1. **Carregamento dos Dados:** Importação segura via `pandas` a partir de planilhas Excel e arquivos CSV delimitados por ponto e vírgula[cite: 2].
+1. **Carregamento dos Dados:** Importação segura via `pandas` a partir de planilhas Excel e arquivos CSV delimitados por ponto e vírgula.
 2. **Tratamento de Colunas e Tipos:** 
    * Padronização e renomeação de colunas para facilitar o acesso programático.
    * Conversão de colunas de texto para o formato `datetime` (datas de ocupação e liberação) com tratamento de erros (`errors='coerce'`).
